@@ -10,6 +10,9 @@
 
 ### Connect with me:
 
+[![website](./img/facebook-light.svg)](https://facebook.com/ngoc.nguyen.03#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://facebook.com/ngoc.nguyen.03#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ngoczx#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ngoczx#gh-dark-mode-only)
 &nbsp;&nbsp;
